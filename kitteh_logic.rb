@@ -21,3 +21,4 @@ else
 end
 puts 'and that concludes todays session of kitteh logic'
 puts 'and kitteh logic shall not be qestioned because its always right'
+sleep(10)
